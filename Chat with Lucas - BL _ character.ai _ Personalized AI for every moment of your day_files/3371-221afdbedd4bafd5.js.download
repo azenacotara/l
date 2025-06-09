@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3371],{33371:function(e,t,u){u.d(t,{Nr:function(){return r}});var n=u(2784);function r(e,t){let[u,r]=n.useState(e);return n.useEffect(()=>{let u=setTimeout(()=>{r(e)},t);return()=>{clearTimeout(u)}},[e,t]),u}}}]);
